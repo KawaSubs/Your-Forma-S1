@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1574936481708616985</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>10390542444672692696</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9078360736374525331</ChapterUID>
+      <ChapterTimeStart>00:00:22.022000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8598635967687799808</ChapterUID>
+      <ChapterTimeStart>00:01:52.029000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12307781326843033371</ChapterUID>
+      <ChapterTimeStart>00:07:17.854000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17181559313837549790</ChapterUID>
+      <ChapterTimeStart>00:11:56.049000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:15.084000000</ChapterTimeStart>
+      <ChapterUID>14838388268225328383</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
