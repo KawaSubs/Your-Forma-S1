@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>2130186407730610457</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3813562032362705433</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>13163329267167023925</ChapterUID>
+      <ChapterTimeStart>00:01:04.982000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4803520932083796365</ChapterUID>
+      <ChapterTimeStart>00:02:35.030000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:05:20.320000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>8546865270398997958</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:28.318000000</ChapterTimeStart>
+      <ChapterUID>8826587142909404916</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:13:41.029000000</ChapterTimeStart>
+      <ChapterUID>1419286336666373221</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part D</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:17.542000000</ChapterTimeStart>
+      <ChapterUID>3406876779524651033</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part E</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:20:44.034000000</ChapterTimeStart>
+      <ChapterUID>9252472385569249286</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part F</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>576541470190819704</ChapterUID>
+      <ChapterTimeStart>00:22:15.084000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
