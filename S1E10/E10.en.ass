@@ -16,9 +16,9 @@ Video File: Your.Forma.S01E10.1080p.AMZN.WEB-DL.JPN.DDP2.0.H.264-ToonsHub.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 207
-Active Line: 1272
-Video Position: 30962
+Scroll Position: 153
+Active Line: 414
+Video Position: 4048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -467,8 +467,12 @@ Dialogue: 0,0:02:51.94,0:02:51.98,TS/Signs,,0,0,0,,{=298}{\fscx99.99\fscy99.99\a
 Dialogue: 0,0:02:51.98,0:02:52.02,TS/Signs,,0,0,0,,{=298}{\fscx99.99\fscy99.99\alpha&H00&\an4\fs20\fnA-OTF Shin Go Pro B\frz358\pos(490.34,838.22)\c&H393F70&\blur0.6\iclip(m 565.17 863.44 l 606.96 842.29 610.27 797.2 524.66 758.47 475.22 804.59 450.25 854.78 478.53 888.41)}Author:\NShimamori Niina
 Dialogue: 0,0:02:52.02,0:02:52.07,TS/Signs,,0,0,0,,{=298}{\fscx99.9\fscy99.9\alpha&H00&\an4\fs20\fnA-OTF Shin Go Pro B\frz357.7\pos(489.51,839.75)\c&H393F70&\blur0.6\iclip(m 565.17 863.44 l 606.96 842.29 610.27 797.2 524.66 758.47 475.22 804.59 450.25 854.78 478.53 888.41)}Author:\NShimamori Niina
 Dialogue: 0,0:02:52.07,0:02:52.11,TS/Signs,,0,0,0,,{=298}{\fscx99.9\fscy99.9\alpha&H00&\an4\fs20\fnA-OTF Shin Go Pro B\frz357.7\pos(489.51,839.75)\c&H393F70&\blur0.6\iclip(m 576.13 872.36 l 632.7 840.25 629.64 817.58 577.15 795.16 490 803.06 456.11 830.32 459.17 869.81 483.89 886.37)}Author:\NShimamori Niina
-Dialogue: 0,0:02:48.15,0:02:52.11,TS/Mask,,0,0,0,,{=35}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1005.3,608.25)\p1\c&H3D452C&}m -9 -58 l 36 54 28 72 -16 -39
-Dialogue: 1,0:02:48.15,0:02:52.11,TS/Signs,,0,0,0,,{=44}{\fnA-OTF Shin Go Pro R\c&H0C200D&\fax0.422330\fscx54.37\fscy30.21\frz-68.8297\frx6.9180\fry6.4867\org(1017.12,614.43)\pos(1010.23,614.43)\blur0.8}Diary
+Dialogue: 0,0:02:48.15,0:02:48.82,TS/Mask,,0,0,0,,{=35}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1005.3,608.25)\p1\c&H3D452C&}m -9 -58 l 36 54 28 72 -16 -39
+Dialogue: 1,0:02:48.15,0:02:48.82,TS/Signs,,0,0,0,,{=44}{\fnA-OTF Shin Go Pro R\c&H0C200D&\fax0.422330\fscx54.37\fscy30.21\frz-68.8297\frx6.9180\fry6.4867\org(1017.12,614.43)\pos(1010.23,614.43)\blur0.8}Diary
+Dialogue: 0,0:02:48.82,0:02:48.94,TS/Mask,,0,0,0,,{=35}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1005.3,608.25)\p1\c&H3D452C&\iclip(m 1005.75 623.39 l 1019.23 603.76 1043.47 611.1 1060.37 670.5 1030.84 690.98)}m -9 -58 l 36 54 28 72 -16 -39
+Dialogue: 1,0:02:48.82,0:02:48.94,TS/Signs,,0,0,0,,{=44}{\fnA-OTF Shin Go Pro R\c&H0C200D&\fax0.422330\fscx54.37\fscy30.21\frz-68.8297\frx6.9180\fry6.4867\org(1017.12,614.43)\pos(1010.23,614.43)\blur0.8\iclip(m 1005.75 623.39 l 1019.23 603.76 1043.47 611.1 1060.37 670.5 1030.84 690.98)}Diary
+Dialogue: 0,0:02:48.94,0:02:52.11,TS/Mask,,0,0,0,,{=35}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1005.3,608.25)\p1\c&H3D452C&}m -9 -58 l 36 54 28 72 -16 -39
+Dialogue: 1,0:02:48.94,0:02:52.11,TS/Signs,,0,0,0,,{=44}{\fnA-OTF Shin Go Pro R\c&H0C200D&\fax0.422330\fscx54.37\fscy30.21\frz-68.8297\frx6.9180\fry6.4867\org(1017.12,614.43)\pos(1010.23,614.43)\blur0.8}Diary
 Dialogue: 0,0:02:48.15,0:02:52.11,TS/Signs,,0,0,0,,{=62}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(916.44,472.06)\p1\c&H443839&}m -42 -149 l 71 146 60 167 -51 -129
 Dialogue: 1,0:02:48.15,0:02:52.11,TS/Signs,,0,0,0,,{=62}{\fnA-OTF Shin Go Pro M\b0\fax0.682450\fscx41.62\fscy39.73\frz-68.4741\frx-2.9513\fry-21.4039\org(924.96,472.06)\pos(916.44,472.06)\c&H29111D&\blur0.8}10 Ways to Become a Detective
 Dialogue: 0,0:03:01.49,0:03:06.62,TS/Mask,,0,0,0,,{=92}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1164.77,1018.19)\p1\c&HC6CCCB&}m -20 -12 l 156 -47 238 -44 240 -14 169 -1 -11 25
