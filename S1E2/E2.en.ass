@@ -16,9 +16,8 @@ Video File: Your.Forma.S01E02.1080p.AMZN.WEB-DL.JPN.DDP2.0.H.264-ToonsHub.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 13006
-Active Line: 13008
-Video Position: 32013
+Active Line: 4
+Video Position: 108
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,12 +58,12 @@ Dialogue: 0,0:02:06.23,0:02:09.48,TS/Signs,,0,0,0,,{\fs65\bord1\blur10\pos(952,6
 Dialogue: 0,0:14:30.05,0:14:33.51,TS/Signs,,0,0,0,,{\pos(960,875)\fs85\bord2\c&HFEFEFD&\3c&H2B2B2B&\blur10}Cybercrime Investigation Department London Branch
 Dialogue: 0,0:14:39.35,0:14:42.86,TS/Signs,,0,0,0,,{\pos(1202,700)\fs65\bord1\blur10\fad(489,0)\an4}Laurel Robot Cleaning Services\NMaintenance Dept\N{\fs85}Aiden Furman
 Dialogue: 0,0:14:45.61,0:14:49.61,TS/Signs,,0,0,0,,{\pos(110,785)\fs65\bord1\blur10\an4}Cyber-Inspection Department London Branch\N{\fs85}Assistant Officer Ross
-Dialogue: 0,0:00:01.51,0:00:04.97,Default,,0,0,0,,Mechanical friends, Amicus Robots.
-Dialogue: 0,0:00:05.69,0:00:07.89,Default,,0,0,0,,A general name for androids.
-Dialogue: 0,0:00:08.65,0:00:12.25,Default,,0,0,0,,Amicus are imprinted\Nwith the Laws of Respect.
-Dialogue: 0,0:00:12.78,0:00:14.62,Default,,0,0,0,,To respect human beings.
-Dialogue: 0,0:00:14.62,0:00:17.50,Default,,0,0,0,,To be obedient to human commands.
-Dialogue: 0,0:00:17.50,0:00:20.00,Default,,0,0,0,,To never attack a human being.
+Dialogue: 0,0:00:01.51,0:00:04.97,Default Italics,,0,0,0,,Mechanical friends, Amicus Robots.
+Dialogue: 0,0:00:05.69,0:00:07.89,Default Italics,,0,0,0,,A general name for androids.
+Dialogue: 0,0:00:08.65,0:00:12.25,Default Italics,,0,0,0,,Amicus are imprinted\Nwith the Laws of Respect.
+Dialogue: 0,0:00:12.78,0:00:14.62,Default Italics,,0,0,0,,To respect human beings.
+Dialogue: 0,0:00:14.62,0:00:17.50,Default Italics,,0,0,0,,To be obedient to human commands.
+Dialogue: 0,0:00:17.50,0:00:20.00,Default Italics,,0,0,0,,To never attack a human being.
 Dialogue: 0,0:01:56.24,0:01:57.51,Default,,0,0,0,,It's the same coat of arms.
 Dialogue: 0,0:01:58.53,0:02:02.77,Default,,0,0,0,,The attacker used an Elphinstone College\Ngraduation gift knife.
 Dialogue: 0,0:02:03.59,0:02:05.73,Default,,0,0,0,,Is the same thing given every year?

@@ -16,8 +16,8 @@ Video File: Your.Forma.S01E04.1080p.AMZN.WEB-DL.JPN.DDP2.0.H.264-ToonsHub.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 25881
+Active Line: 2
+Video Position: 31
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,12 +56,12 @@ Style: TS/SelfCredit,Arno Pro,45,&H00FFFFFF,&H000000FF,&H00AD9D2C,&H004A3D0E,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:17:57.43,0:18:04.56,TS/Signs,,0,0,0,,{\pos(960,875)\fs85\bord2.5\c&HFEFEFD&\3c&H2B2B2B&\blur10}AI Ethics Committee London Headquarters
 Dialogue: 0,0:17:57.55,0:18:02.56,TS/Signs,,0,0,0,,{\an6\fs85\bord2.5\c&HFCF7EF&\3c&H373737&\blur10\fad(450,500)\pos(1695,185)}One Week Later
-Dialogue: 0,0:00:01.29,0:00:05.03,Default,,0,0,0,,Mechanical friends, Amicus Robots.
-Dialogue: 0,0:00:05.61,0:00:08.41,Default,,0,0,0,,A general name for androids.
-Dialogue: 0,0:00:08.41,0:00:12.51,Default,,0,0,0,,Amicus are imprinted\Nwith the Laws of Respect.
-Dialogue: 0,0:00:12.51,0:00:14.62,Default,,0,0,0,,To respect human beings.
-Dialogue: 0,0:00:14.62,0:00:17.50,Default,,0,0,0,,To be obedient to human commands.
-Dialogue: 0,0:00:17.50,0:00:20.57,Default,,0,0,0,,To never attack a human being.
+Dialogue: 0,0:00:01.29,0:00:05.03,Default Italics,,0,0,0,,Mechanical friends, Amicus Robots.
+Dialogue: 0,0:00:05.61,0:00:08.41,Default Italics,,0,0,0,,A general name for androids.
+Dialogue: 0,0:00:08.41,0:00:12.51,Default Italics,,0,0,0,,Amicus are imprinted\Nwith the Laws of Respect.
+Dialogue: 0,0:00:12.51,0:00:14.62,Default Italics,,0,0,0,,To respect human beings.
+Dialogue: 0,0:00:14.62,0:00:17.50,Default Italics,,0,0,0,,To be obedient to human commands.
+Dialogue: 0,0:00:17.50,0:00:20.57,Default Italics,,0,0,0,,To never attack a human being.
 Dialogue: 0,0:02:01.64,0:02:03.04,Default,,0,0,0,,Take a look at this, Aiden.
 Dialogue: 0,0:02:03.56,0:02:05.75,Default,,0,0,0,,It's almost done.
 Dialogue: 0,0:02:06.31,0:02:08.43,Default,,0,0,0,,You know, that project proposal.
